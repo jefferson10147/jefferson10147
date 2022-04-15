@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **jefferson10147/jefferson10147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
