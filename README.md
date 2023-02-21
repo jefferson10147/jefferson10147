@@ -21,7 +21,6 @@ Wed Developer
 
 *   🌍  I'm based in Venezuela 🇻🇪
 *   ✉️  You can contact me at [jefferson.montilla98@gmail.com](mailto:jefferson.montilla98@gmail.com)
-*   🚀  I'm currently working on [Careerist](http://www.careerist.com/)
 *   🧠  I'm currently learning Frontend development with React JS
 *   ⚡  I like videogames and sports
 ### Skills
